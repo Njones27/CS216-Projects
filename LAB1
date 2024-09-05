@@ -1,0 +1,118 @@
+/home/njjo227/CS216/Lab1
+total 4
+-rw-rw-r-- 1 njjo227 njjo227 25 Aug 27 23:23 file1
+ _______________________________________
+/ “Hello, Aayush Karki. Nice to meet   \
+\ you! I am Nathan Jones.               /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+ ______________________
+( “Can I enjoy CS216?” )
+ ----------------------
+        o   ^__^
+         o  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+C++ compiler version is: 
+201703
+    1  vim
+    2  nano
+    3  vim
+    4  exit
+    5  pwd
+    6  mkdir CS216
+    7  cd CS216
+    8  pwd
+    9  mkdir Lab1
+   10  cd Lab1/
+   11  ls
+   12  pwd > file1
+   13  cat file1
+   14  ls -l
+   15  ls -l >> file1
+   16  LS
+   17  ls
+   18  cowsay “Hello, Charlie Brown. Nice to meet you! I am Nathan Jones." >> file1
+   19  cowsay
+   20  cowsay “Hello, Charlie Brown. Nice to meet you! I am Nathan Jones." >> file1
+   21  cat file1
+   22  cowsay “Hello, Charlie Brown. Nice to meet you! I am Nathan Jones." >> file1
+   23  cowsay “Hello, Charlie Brown. Nice to meet you! I am Nathan Jones." >> file1
+   24  cat file1
+   25  cowsay 
+   26  cat file1
+   27  cowsay >> file1
+   28  cowsay “" >> file1
+   29   
+   30  cat file1
+   31  cd ..
+   32  cd Lab1/
+   33  ls
+   34  cat file1
+   35  nano file1
+   36  cat file1
+   37  cowthink “Can I enjoy CS216?” >> file1
+   38  yes “I will enjoy CS216”
+   39  echo shell
+   40  echo $shell
+   41  echo $SHELL
+   42  curl -O https://www.cs.uky.edu/~yipike/CS216/testC++CompilerVersion.cpp
+   43  g++ testC++CompilerVersion.cpp -o testC++Compiler
+   44  ls
+   45  ./testC++Compiler
+   46  ./testC++Compiler >> file1
+   47  cat file1
+   48  man ls
+   49  history > file2
+   50  cat file2
+   51  figlet “EXCEL in CS216”
+   52  figlet “EXCEL in CS216” >> file2
+   53  cat file1 file2 > LAB1
+   54  cat LAB1
+   55  exit
+   56  cd CS216/Lab1/
+   57  nano file1
+   58  exit
+   59  pwd
+   60  cd CS216/Lab1/
+   61  ls
+   62  ls -l
+   63  ls
+   64  cd file1
+   65  cat file1
+   66  exit
+   67  cd CS216/Lab1/
+   68  nano file1
+   69  cat file1
+   70  $scp username@username.cs.uky.edu:~/CS216/Lab1/LAB1 ./
+   71  scp username@username.cs.uky.edu:~/CS216/Lab1/LAB1 ./
+   72  scp njjo227@njjo227.cs.uky.edu:~/CS216/Lab1/LAB1 ./
+   73  sl
+   74  scp njjo227@njjo227.cs.uky.edu:~/CS216/Lab1/LAB1 ./
+   75  cat file1
+   76  exit 
+   77  cd CS216
+   78  cd Lab1/
+   79  cat file1
+   80  history > file2
+                                                                             
+ m"m"   mmmmmm m    m   mmm  mmmmmm m               "                    mmm 
+ " "    #       #  #  m"   " #      #             mmm    m mm          m"   "
+        #mmmmm   ##   #      #mmmmm #               #    #"  #         #     
+        #       m""m  #      #      #               #    #   #         #     
+        #mmmmm m"  "m  "mmm" #mmmmm #mmmmm        mm#mm  #   #          "mmm"
+                                                                             
+                                                                             
+                                                                             
+  mmmm   mmmm  mmm      mmm   # #                                            
+ #"   " "   "#   #    m"   " " "                                             
+ "#mmm      m"   #    #m""#m                                                 
+     "#   m"     #    #    #                                                 
+ "mmm#" m#mmmm mm#mm   #mm#"                                                 
+                                                                             
+                                                                             
